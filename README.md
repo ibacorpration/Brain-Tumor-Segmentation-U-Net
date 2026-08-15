@@ -1,5 +1,11 @@
 # 🧠 Brain Tumor Segmentation using U-Net
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5923c650-74db-4202-957b-d09dee1d2507" 
+       alt="Brain Tumor Segmentation Results" 
+       width="900"/>
+</p>
+
 Deep Learning project for **pixel-level brain tumor segmentation** from MRI images using an improved **U-Net** architecture with TensorFlow/Keras.
 
 ## 🎯 Overview
